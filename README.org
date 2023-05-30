@@ -1,0 +1,10 @@
+#+title: Readme
+
+
+* CC Json
+
+I created a small and well-organized JSON file containing information about countries and cities. It also includes some useful details about the countries.
+
+* Why i created this
+
+I created this file because I couldn't find a suitable JSON file that met my specific requirements.
